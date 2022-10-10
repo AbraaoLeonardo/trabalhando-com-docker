@@ -18,5 +18,5 @@ para começar, você precisará de alguns programas
 + docker:  https://docs.docker.com/desktop/
 + Vagrant: https://www.vagrantup.com/downloads
 #### Com os 3 programas conseguiremos rodar a aplicação :smile:
-+ baixe através do comando: git clone https://github.com/AbraaoLeonardo/trabalh>
++ baixe através do comando: git clone https://github.com/AbraaoLeonardo/trabalhando-com-docker/tree/segundo-projeto
 + no terminal, digite: vagrant up
