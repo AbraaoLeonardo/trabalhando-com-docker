@@ -7,6 +7,6 @@ para começar, você precisará de alguns programas
 + docker:  https://docs.docker.com/desktop/
 + docker-compose: https://docs.docker.com/compose/install/
 #### Com os 3 programas conseguiremos rodar a aplicação :smile:
-+ baixe através do comando: https://github.com/AbraaoLeonardo/trabalhando-com-docker.git
++ baixe através do comando: git clone https://github.com/AbraaoLeonardo/trabalhando-com-docker.git
 + no terminal, digite: docker compose up -D
 + e acesse através de seu navegador o site: localhost:8080
